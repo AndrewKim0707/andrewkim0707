@@ -1,16 +1,22 @@
-### Hi there 👋
+---
+About Me
+---
 
-<!--
-**AndrewKim0707/andrewkim0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name: Andrew Kim
 
-Here are some ideas to get you started:
+Picture:
 
-- 🔭 I’m currently working on ...a website
-- 🌱 I’m currently learning ...github
-- 👯 I’m looking to collaborate on ...nothing
-- 🤔 I’m looking for help with ...nothing
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...facebook
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...N/A
--->
+![image](https://user-images.githubusercontent.com/85084723/120250760-43c22780-c24d-11eb-9dfa-6b22818ecb38.png)
+
+Social Media Information
+
+Facebook: Fyre55
+
+Brag Sheet
+
+Job: Web Designer
+
+Hobby: Golf
+
+Award: 2nd Degree Black Belt
+
